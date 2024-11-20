@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083982207891",
+    "project_id": "responsive-application-wst5fq",
+    "storage_bucket": "responsive-application-wst5fq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083982207891:android:f00ee821443ac43cd06666",
+        "android_client_info": {
+          "package_name": "com.mycompany.xan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6rwegnA2lYfS0aoxgpsMgu0mqplnExU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
